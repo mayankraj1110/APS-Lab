@@ -8,7 +8,7 @@ Tracking my algorithm and data structure progress from [LeetCode](https://leetco
 
 | # | Problem | Difficulty | Solution |
 |---|---|:---:|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Code](./) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Code](https://leetcode.com/problems/two-sum/submissions/1809672788/) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | [Code](./) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Code](./) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [Code](./) |
