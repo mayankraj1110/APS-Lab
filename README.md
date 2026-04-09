@@ -21,6 +21,7 @@ Tracking my algorithm and data structure progress from [LeetCode](https://leetco
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | C++ | [Code](https://leetcode.com/problems/rotate-array/submissions/1972682105/) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | C++ | [Code](https://leetcode.com/problems/implement-stack-using-queues/submissions/1838532703/) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | C++ | [Code](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1838867195/) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | 🟡 Medium | C++ | [Code](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1973096202/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | C++ | [Code](https://leetcode.com/problems/find-the-duplicate-number/submissions/1968445359/) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | C++ | [Code](https://leetcode.com/problems/top-k-frequent-elements/submissions/1959112073/) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | C++ | [Code](https://leetcode.com/problems/sort-characters-by-frequency/submissions/1960352016/) |
